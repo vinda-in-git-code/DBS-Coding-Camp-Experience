@@ -24,6 +24,7 @@
 1. Gerbang logika atau logic gate adalah sebuah rangkaian sirkuit digital yang berguna untuk memproses logika boolean (logika yang menghasilkan output benar atau salah). Gerbang logika ini menghasilkan output berupa 0 (salah) dan 1 (benar) berdasarkan input (masukan) yang kita berikan.
 2. Tabel kebenaran merupakan kumpulan kombinasi beberapa nilai input berdasarkan logika yang kita buat untuk menghasilkan output (keluaran) yang masuk akal dalam bentuk tabel.
 3. Terdapat 7 jenis gerbang logika, diantaranya seperti :
-   - AND : Gerbang logika AND setidaknya memerlukan dua input. Jika input A dan B bernilai 1 (true), maka hasil outputnya juga pasti bernilai 1 (true). Sedangkan jika salah satu input saja bernilai 0 (false), maka hasil output juga akan 0 (false) [Lihat Gambar 4 di Release Notes].
+   - AND : Gerbang logika AND setidaknya memerlukan dua input. Jika input A dan B bernilai 1 (true), maka hasil outputnya juga pasti bernilai 1 (true). Sedangkan jika salah satu input saja bernilai 0 (false), maka hasil output juga akan 0 (false) [Lihat Gambar 1 di Releases yang Tag 2.1].
+   - OR : Jika input A atau B bernilai 1 (true), maka hasil outputnya juga pasti bernilai 1 (true). Namun, jika input keduanya bernilai 0 (false), maka hasil outputnya juga akan 0 (false) [Lihat Gambar 2 di Releases yang Tag 2.2].
    - 
 5. 
