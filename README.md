@@ -87,4 +87,82 @@
     - Perhatikan Kondisi Tempat Belajar -> Lingkungan tempat Anda belajar juga mempengaruhi kemampuan kita dalam mempelajari sesuatu. Hal tersebut terjadi karena otak Anda berasosiasi sesuai dengan konteks di mana Anda sedang mempelajari sesuatu. Dalam proses belajar, tempat atau suasana sangat penting supaya informasi yang kita pelajari bisa cepat kita serap.
     - Mulai dari yang Sederhana -> Dalam memulai belajar pemrograman jangan langsung loncat belajar yang sulit. Seperti sebuah pesan bijak, “Sesuatu yang besar dimulai dari langkah yang kecil” maka kita harus mulai melangkah dari yang paling sederhana dulu.
 #### Modifikasi Aplikasi Perangkat Lunak : 
-1. 
+1. HTML adalah singkatan dari Hypertext Markup Language, merupakan bahasa standar yang digunakan untuk merancang tampilan website.
+2. Fungsi utama dari HTML adalah untuk membuat suatu halaman website menjadi lebih mudah dibaca dan dipahami. Karena itulah di dalamnya terdapat berbagai macam tag yang dapat dapat digunakan untuk memformat teks, seperti heading, paragraf, maupun link.
+3. Berikut adalah contoh dari kode HTML:
+   - <html> : tag paling dasar pada html, semua elemen lain harus di dalam tag ini.
+   - <head> : tempat untuk menyimpan informasi dari dokumen HTML.
+   - <title>: judul yang muncul di tab browser.
+   - <body> : representasi dari suatu konten pada sebuah dokumen HTML.
+   - <h1> : salah satu jenis dari 6 jenis heading yang paling tinggi.
+   - <a dengan attribute href>: untuk membuat hyperlink ke suatu website.
+   - <p> : paragraf.
+4. Cascading Style Sheet atau biasa disingkat CSS merupakan standar W3C (World Wide Web Consortium) yang digunakan untuk mengatur visualisasi berkas yang ditulis pada HTML.
+5. CSS bukanlah sebuah bahasa pemrograman karena di dalamnya tidak terdapat logika, tidak dapat membuat sebuah variabel, tidak adanya proses iterasi, dsb.
+6. CSS hanya sebuah declarative language yang digunakan untuk mendeklarasikan suatu nilai yang nantinya digunakan untuk mengatur seperti apa sebuah elemen HTML ditampilkan pada browser.
+7. Dengan menerapkan CSS, tampilan website kita akan lebih menarik. Berikut beberapa keuntungan yang didapatkan ketika kita menerapkan CSS.
+8. Dapat mengontrol dan menerapkan layout secara presisi. Dengan menggunakan CSS kita bisa membuat sebuah website seperti dokumen cetak dengan desain yang menarik dan presisi.
+9. Menghindari pekerjaan yang berulang-ulang dalam menerapkan styling. Kita dapat menetapkan styling pada beberapa berkas HTML hanya dengan menggunakan satu berkas CSS.
+10. Didukung banyak browser. Seluruh browser saat ini minimal sudah mendukung CSS versi 2. Untuk browser yang populer seperti Chrome dan Firefox sudah mendukung CSS versi 3.
+11. Supaya kemampuan Anda terlatih lebih dalam lagi, berikut ini terdapat beberapa tips yang dapat Anda terapkan : 
+    - Banyak berlatih -> Ibarat sebuah pisau yang sudah lama tidak diasah, maka lama kelamaan pisau tersebut akan menjadi tumpul. Begitu juga dengan kemampuan yang sudah Anda miliki, jika tidak diimbangi dengan latihan berulang kali, maka semakin lama ilmu tersebut dapat membusuk begitu saja di kepala Anda. Maka, perbanyaklah latihan dengan cara mengubah-ubah project yang sudah ada atau bahkan menambahkan fitur baru pada project tersebut.
+    - Berlatih berdasarkan topik yang diminati -> Jika Anda bosan ketika berlatih pemrograman, cobalah berlatih dengan topik yang Anda minati. Sebagai contoh Anda tertarik dengan sepak bola, maka buatlah aplikasi yang berkaitan dengan topik yang Anda minati tersebut, contohnya seperti papan penghitung skor, portal berita olahraga, atau dashboard live score. Dengan begitu, Anda akan memiliki semangat yang lebih dalam bereksplorasi.
+#### Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak : 
+1. Pengarsipan adalah proses, cara, atau perbuatan mengarsipkan. Sedangkan arsip sendiri adalah tempat penyimpanan berkas (program atau data) sebagai cadangan. Sehingga pengarsipan perangkat lunak dapat diartikan sebagai proses mengarsipkan perangkat lunak atau aplikasi yang telah kita buat.
+2. Version Control System merupakan tools untuk mengatur suatu perubahan dan konfigurasi dari suatu aplikasi, termasuk juga source code. Setiap perubahan yang dilakukan akan dicatat, sehingga memperjelas siapa yang telah melakukan perubahan tersebut. Selain itu, version control juga berfungsi sebagai backup files atau pengarsipan.
+3. Kita bisa menggunakan Git secara free atau gratis kemudian menyimpannya juga di layanan online yang tersedia seperti GitHub, Bitbucket, dan Gitlab. Namun, salah satu yang cukup populer adalah GitHub.
+4. GitHub merupakan layanan hosting repository Git berbasis web yang juga memiliki banyak fitur seperti bug tracking dan task management. Dengan menggunakan GitHub, kita bisa mengarsipkan perangkat lunak atau aplikasi kapan pun dan di mana pun.
+5. Semua perubahan yang ada dalam repository Git dapat kita lihat dalam halaman history. Kita juga dapat melihat detail dari perubahan tersebut, seperti bagian mana yang ditambahkan atau dihilangkan.
+6. Anda dapat menggunakan commit untuk menyimpan perubahan yang ada dalam Git. Selain itu, Anda juga dapat menggunakan fitur revert untuk kembali ke perubahan atau commit tertentu.
+7. Saat Anda bekerja sebagai software developer, perusahaan tak hanya menginginkan fitur-fitur aplikasi bisa berjalan dengan baik ya. Perusahaan juga menginginkan kode dengan kualitas terbaik dan mampu menjadi pendukung bisnis. Salah satu indikatornya adalah Anda dapat melakukan perubahan dengan mudah pada aplikasi saat terdapat fitur baru. Selain itu, perusahaan dapat melakukan upaya (effort) seminimal mungkin untuk beradaptasi dengan kebutuhan bisnisnya.
+8. Kode yang baik tak hanya mudah dibaca oleh komputer saja, namun mudah dibaca oleh manusia. Kenapa demikian? Karena programming kebanyakan tentang membaca, bukan menulis.
+9. Style Guide merupakan kumpulan peraturan mengenai bagaimana cara penulisan kode yang baik bagi developer secara individu maupun tim. Pada style guide tertulis secara lengkap aturan yang harus diikuti oleh developer. Seperti penggunaan double atau single quote, indentasi, semicolon, penamaan variabel, dan lainnya.
+10. Style guide yang sudah disepakati dan direkomendasikan oleh banyak developer itulah yang disebut dengan Code Convention. Tentunya setiap bahasa pemrograman memiliki berbagai referensi style guide terkenal yang direkomendasikan untuk Anda ikuti. Dalam bahasa Javascript, Anda dapat mengikuti style guide dari AirBNB JavaScript, Google JavaScript, dan Standard JavaScript.\
+11. Alasan mengapa style guide penting bagi developer :
+    - Konsistensi.
+    - Membantu Proses Onboarding.
+    - Menambah Wawasan.
+    - Membantu proses Code Review.
+12. Selain itu, dengan mengikuti style guide, Anda akan dapat beberapa keuntungan seperti :
+    - Memahami dan membaca kode jadi lebih mudah.
+    - Memelihara kode jadi lebih mudah untuk dipelihara.
+    - Mengurangi kesalahan pengembang software yang sering terjadi.
+    - Mengurangi beban secara kognitif saat memuat kode.
+    - Menjadi lebih fokus pada permasalahan logika kode dibandingkan style-nya saat berdiskusi dengan rekan kerja Anda.
+13. Komentar memiliki beberapa macam jenis, yakni :
+    - Singleline atau satu baris (//)
+    - Multiline atau beberapa baris (/* … */)
+14. Selain menginformasikan apa yang terjadi dalam baris kode, komentar juga berfungsi untuk menonaktifkan suatu perintah dalam baris kode.
+15. Ingat, tak semua kode perlu dikomentari ya. Terlebih jika sebuah hal yang mendasar, seperti perintah print.
+16. Walaupun komentar tidak mempengaruhi performa kode, tetapi harus kita pastikan komentar yang dibuat cukup membantu untuk menjelaskan kode yang ada. Oleh karena itu, bijaklah dalam menuliskan komentar dalam kode. Jika dirasa komentar tidak diperlukan, Anda bisa menghapusnya.
+17. Dokumentasi adalah deskripsi tertulis yang komprehensif dari perangkat lunak dalam berbagai bentuk dan tingkat perincian yang secara jelas mendefinisikan persyaratan, konten, komposisi, desain, kinerja, pengujian, penggunaan, dan pemeliharaan.
+18. Dokumentasi teknis akan menceritakan mengenai produk dengan cara yang mudah untuk digunakan, dibaca, dimengerti, dan tentunya membantu pembaca.
+19. Dokumentasi Teknis dibagi menjadi beberapa jenis dan area sesuai kebutuhan, berikut detailnya :
+    - End-user support: Dokumen ini biasanya berisi tentang panduan pengguna, sistem bantuan secara online, catatan rilis, panduan pelatihan, panduan cara instalasi, atau prosedur operasional. Intinya adalah apa pun yang mendukung pengguna dengan produk Anda.
+    - Marketing support: Dokumen ini fokus pada produk dan digunakan untuk memasarkan perusahaan Anda. Contohnya berupa video pelatihan berbasis komputer, presentasi, bantuan secara online, atau sebuah halaman untuk arahan teknis.
+    - Development support: Dokumen ini berisi mengenai segala spesifikasi teknis dan fungsional, panduan pengembangan produk perangkat lunak, glosarium, atau prosedur serta tools untuk membantu tim dalam melakukan pekerjaan mereka.
+    - Organization support: Dokumen ini berisi segala informasi mengenai perusahaan seperti struktur organisasi, panduan bekerja, alur kerja, kebijakan-kebijakan, aturan yang ada, dan hal lain yang perlu diketahui karyawan untuk melakukan pekerjaan mereka.
+20. Dokumentasi teknis itu sendiri dapat dilakukan secara offline maupun online.
+21. Ketika Anda membuat dokumentasi secara online, maka dapat diakses kapan saja dan di mana saja. Tentunya ini akan memudahkan dan tidak memakan waktu lama untuk memahaminya sehingga lebih efisien dan uptodate.
+22. Beda cerita jika Anda mendokumentasikan sebuah aplikasi atau produk, namun disimpan dalam bentuk offline seperti catatan atau mungkin dalam bentuk buku. Jika dibutuhkan dalam keadaan terdesak, informasi tersebut tidak bisa langsung didapatkan. Bahkan proses pencariannya juga akan lebih rumit dibandingkan dokumentasi teknis secara online.
+23. Manfaat yang akan didapatkan ketika kita mengimplementasikan dokumentasi teknis ketika pembuatan aplikasi, yaitu :
+    - Meningkatkan retensi pengguna.
+    - Menghemat waktu dan tenaga.
+    - Meningkatkan penjualan produk Anda.
+24. Berikut merupakan langkah singkat untuk membangunnya :
+    - Tentukan siapa targetnya, apakah untuk rekan tim Anda atau untuk pengguna aplikasi Anda.
+    - Pikirkan dengan matang dan jelas apa yang ingin Anda sampaikan ke dalam dokumentasi teknis.
+    - Gunakanlah outline atau kerangka tulisan terlebih dahulu ketika membangunnya.
+    - Anda juga dapat menggunakan ilustrasi dan teks dalam dokumentasi tersebut.
+    - Terakhir, jika Anda sudah menyelesaikan dokumentasi teknis, maka pastikan kembali. Anda bisa membacanya kembali dan bila ada yang kurang sesuai segera Anda revisi.
+25. JSDoc merupakan salah satu tools yang dapat digunakan untuk membuat dokumentasi teknis dari komentar yang diberikan pada berkas program Javascript.
+26. Sebelum Anda mengomunikasikan perihal dokumentasi, Anda perlu memperhatikan beberapa hal penting berikut :
+    - Pastikan apa yang sudah Anda tulis dalam dokumentasi sudah benar dan sudah sesuai.
+    - Perlu kamu tahu bahwa suatu dokumentasi teknis tidak hanya ditujukan kepada Anda saja melainkan untuk orang lain.
+    - Ketika menyampaikan pun harus dengan adab atau beretika atau sopan santun..
+    - Pastikan Anda mendokumentasikan teknis aplikasi secara online, serta memikirkan juga siapa saja yang dapat mengaksesnya karena keamanan dokumentasi teknis juga perlu dipikirkan.
+27. Sebelum Anda mengomunikasikan perihal dokumentasi, Anda perlu memperhatikan beberapa hal penting berikut :
+    - Pastikan apa yang sudah Anda tulis dalam dokumentasi sudah benar dan sudah sesuai. Luangkan waktu untuk membaca kembali. Sebab, sebuah typo saja bisa menimbulkan masalah.
+    - Dokumentasi ini tidak hanya ditujukan kepada Anda saja. Namun, untuk orang lain. Oleh karena itu, ketika Anda menuliskan dokumentasi teknis jangan terlalu berpikir secara tertutup. Jangan sampai hanya karena Anda merasa baik-baik saja, maka semua itu sudah selesai ya. Pastikan Anda memposisikan sebagai pembaca, baik atasan maupun stakeholder lainnya.
+    - Ketika menyampaikan pun harus dengan adab ya. Sebab, sebaik apapun dokumentasi yang dibuat jika Anda menyepelekan masalah adab maka akan menimbulkan masalah. Contohnya, ketika sudah menentukan deadline pembuatan maka Anda harus menepatinya. Kalau dirasa ada yang salah, maka segeralah katakan. Jangan sampai ketika deadline datang, namun Anda justru memberikan seribu alasan karena dokumentasi belum siap.
+    - Pastikan Anda mendokumentasikan teknis aplikasi secara online. Seperti yang sudah dijelaskan pada materi sebelumnya, mendokumentasikan secara online akan memberikan banyak manfaat. Namun, Anda perlu memikirkan juga siapa saja yang dapat mengaksesnya karena keamanan dokumentasi teknis juga perlu dipikirkan. Jangan sampai hal yang bersifat rahasia, justru karena keteledoran Anda menjadikan kebocoran informasi.
