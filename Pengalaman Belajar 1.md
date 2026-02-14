@@ -1,4 +1,4 @@
-# Pengalaman Belajar Pertama di DBS Coding Camp 
+# Pengalaman Belajar Ke - 1 di DBS Coding Camp 
 
 ## Tanggal : 9 Februari 2026<br>
 ### Mempelajari Memulai Dasar Pemrograman utk Menjadi Pemrogram Software =
